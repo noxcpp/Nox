@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\nox\\runtime\\bin\\source\\reflectiongenerator\\sample\\module.ixx",
+        "ProvidedModule": "my_module",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
